@@ -1,2 +1,9 @@
-# wrath-of-god
-scripture study notes: what does the phrase "wrath of God" mean?
+# topic-name
+
+Question: *What, exactly, is meant by the scriptural phrase "___ ___ ___"?*
+
+* [scripture references](scriptures.md)
+* [prophetic teachings](teachings.md)
+* [notable commentary](commentary.md)
+* [related phrases](related.md)
+* [analysis](analysis.md)
